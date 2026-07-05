@@ -42,9 +42,9 @@ The project consists of the following Java classes:
 
 ## Documentation
 
-The complete project report is included in this repository:
+The complete project report is available as a PDF:
 
-📄 Password Helper and Analyzer.docx
+📄 [View the Project Report (PDF)](https://drive.google.com/file/d/1aHRM3LdscCR3K2qEwxlYtdX7gUHZQpmp/view?usp=drivesdk)
 
 The documentation includes:
 - Project overview
@@ -57,7 +57,7 @@ The documentation includes:
 
 ## Note
 
-This repository contains the project documentation and selected code snippets for demonstration purposes. The complete source code is not publicly available.
+This repository contains project documentation and selected code snippets for demonstration purposes. The complete source code is not publicly available.
 
 ---
 
